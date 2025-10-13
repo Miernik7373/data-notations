@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTD-8"?>
+<geometricFigures>
+    <Figure>
+    <name>Triangle</name>
+    <type>2D</type>
+    <properties>
+        <property>Side length</property>
+        <property>Height</property>
+        <property>Area<
