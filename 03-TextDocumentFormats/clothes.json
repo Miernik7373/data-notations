@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "4F",
+        "founded": 2003,
+        "headquarters": "Wieliczka, Poland",
+        "employees": 850,
+        "products":[
+            "T-shirts",
+            "Shorts",
+            "Jackets"
+        ]
+    },
+    {
+        "name": "Levi Strauss & Co.",
+        "founded": 1853,
+        "headquarters": "San Francisco, United States",
+        "employees": 18700,
+        "products":[
+            "Jeans",
+            "Shirts",
+            "Sweaters" 
+        ]
     }
 ]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTD-8"?>
+<eMail>
+    <Sender>elliotmcmahon@university.com</Sender>
+    <Recipient>douglasjones@uni.proffessor.com</Recipient>
+    <Subject>Assignment#04</Subject>
+    <MessageBody>
+        <Greeting>Dear Professor Jones,</Greeting>
+        <Content>regarding the latest assignment...</Content>
+        <Ending>Yours sincerely.</Ending>
+        <Signature>Elliot McMahon</Signature>
+    </MessageBody>
+</eMail>      

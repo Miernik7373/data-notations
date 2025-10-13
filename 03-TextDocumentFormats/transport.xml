@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTD-8"?>
+<transport>
+    <Bus>
+        <Comfort>Medium</Comfort>
+        <Speed unit="kMph">40</Speed>
+        <Availability>Medium</Availability>
+        <Cost time="Month" currency="PLN">80</Cost>
+    </Bus>
+    <Walking>
+        <Comfort>Low</Comfort>
+        <Speed unit="kMph">6</Speed>
+        <Availability>High</Availability>
+        <Cost time="Month" currency="PLN">0</Cost>
+    </Walking>
+    <Car>
+        <Comfort>High</Comfort>
+        <Speed unit="kMph">50</Speed>
+        <Availability>High</Availability>
+        <Cost time="Month" currency="PLN">140</Cost>
+    </Car>
+</transport>
