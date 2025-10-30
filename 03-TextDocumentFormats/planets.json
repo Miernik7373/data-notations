@@ -14,7 +14,7 @@
     {
       "name": "Earth",
       "diameter": 12742,
-      "distance_from_sun": "149.6 million km",
+      "distance_from_sun": 149.6,
       "moons": 1,
       "has_rings": false
     },
@@ -23,7 +23,7 @@
       "diameter": 6779,
       "distance_from_sun": 227.9,
       "moons": 2,
-      "has_rings": "No"
+      "has_rings": false
     },
     {
       "name": "Jupiter",
@@ -37,7 +37,7 @@
       "diameter": 116460,
       "distance_from_sun": 1434,
       "moons": 82,
-      "has_rings": "True"
+      "has_rings": true
     },
     {
       "name": "Uranus",
