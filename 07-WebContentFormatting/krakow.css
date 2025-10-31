@@ -1,0 +1,20 @@
+th {
+        background-color: darkgreen;
+}
+td {
+        padding:15px
+}
+table {
+    border:20px;
+    border-collapse:collapse;
+    border-style:solid;
+}
+table:hover {
+    color:aqua;
+}
+table:hover pseudo-class{
+    background-color: blue;
+}
+body{
+    background-color: chartreuse;
+}
